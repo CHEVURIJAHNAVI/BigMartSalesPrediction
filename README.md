@@ -1,5 +1,5 @@
 BigMart Sales Prediction
-This project focuses on predicting sales for BigMart outlets using machine learning techniques. The goal is to help BigMart optimize inventory management and improve sales strategies by accurately forecasting future sales based on historical data.
+focuses on predicting sales for BigMart outlets using machine learning techniques. The goal is to help BigMart optimize inventory management and improve sales strategies by accurately forecasting future sales based on historical data.
 
 Key Features
 Exploratory Data Analysis (EDA): Analyzed sales data to identify trends, handle missing values, and engineer relevant features.
